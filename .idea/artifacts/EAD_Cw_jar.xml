@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EAD Cw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EAD_Cw_jar</output-path>
+    <root id="archive" name="EAD Cw.jar">
+      <element id="module-output" name="EAD Cw" />
+      <element id="extracted-dir" path="D:/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/swingx-all-1.6.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jcalendar-1.4/lib/jcalendar-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
